@@ -1,5 +1,5 @@
 class Test{
-    int a=100;
+    int a=100;        //instance variable
     int b=200;
     static int c=300;
 
