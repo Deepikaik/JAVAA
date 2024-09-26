@@ -3,7 +3,7 @@ class Account{
     private String acc_Name;
     private double acc_Bal;
     
-    public void setAcc_id(int id){
+    public void setAcc_id(int id){       //setters and getters
         this.acc_Id=id;
     }
 
